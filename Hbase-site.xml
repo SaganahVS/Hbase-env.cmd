@@ -1,0 +1,12 @@
+<property>
+ <name>hbase.rootdir</name>
+ <value>C:/hbase-2.2.5/hbase</value>
+</property>
+<property>
+ <name>hbase.zookeeper.property.dataDir</name>
+ <value>C:/hbase-2.2.5/zookeeper</value>
+</property>
+<property>
+ <name> hbase.zookeeper.quorum</name>
+ <value>localhost</value>
+</property>
